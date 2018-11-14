@@ -11,3 +11,5 @@ Components Used
 5. RGB Backlight LCD (16 X 2)
 6. Connecting Jumper Wires
 7. Toy cars for Demo
+
+Link to video of the simulation - https://www.youtube.com/watch?v=l0czuDbayhU
